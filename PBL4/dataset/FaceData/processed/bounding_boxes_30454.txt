@@ -1,0 +1,70 @@
+Dataset/FaceData/processed/Tho/247100228_244123581082029_1358543283013936844_n.png 254 620 1019 1645
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image (1).png 359 522 1081 1522
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image.png 464 583 1171 1595
+Dataset/FaceData/processed/Tho/246218418_944067639796224_2202244498610951790_n.png 458 676 1103 1362
+Dataset/FaceData/processed/Tho/246709115_877088326252355_766211488186824963_n.png 352 922 1239 2032
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image (5).png 493 602 1097 1312
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image (2).png 387 799 1178 1806
+Dataset/FaceData/processed/Tho/244741912_582424539845789_698066321457388673_n.png 374 596 1159 1651
+Dataset/FaceData/processed/Tho/245675200_554416515859101_4721392137999868613_n.png 355 688 1093 1676
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image (3).png 391 511 1144 1512
+Dataset/FaceData/processed/Tho/247852311_2920034411584233_1704740709943532063_n.png 414 609 1206 1661
+Dataset/FaceData/processed/Tho/246203599_2826012750993015_1141562866993884950_n.png 456 722 1149 1531
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image (7).png 590 478 1293 1473
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image (8).png 415 516 1154 1502
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image (4).png 346 491 1062 1419
+Dataset/FaceData/processed/Tho/244726032_1198475313971501_4298201621458363095_n.png 489 600 1280 1705
+Dataset/FaceData/processed/Tho/246957652_1075790973191182_3315333370531203651_n.png 370 624 1175 1693
+Dataset/FaceData/processed/Tho/247004278_905460843508202_3167412518738505664_n.png 544 652 1312 1722
+Dataset/FaceData/processed/Tho/MicrosoftTeams-image (6).png 344 571 1037 1537
+Dataset/FaceData/processed/Tho/246142523_558003712153392_3385884552247392619_n.png 311 604 1129 1673
+Dataset/FaceData/processed/Tho/246665981_393145322291568_8726847360276877874_n.png 435 567 1241 1684
+Dataset/FaceData/processed/Tho/246704372_1858995914302744_4639921957999473981_n.png 364 647 1187 1709
+Dataset/FaceData/processed/NhuY/Screenshot_20210711-122042.png 193 385 770 1096
+Dataset/FaceData/processed/NhuY/FB_IMG_1624764866898.png 146 76 374 324
+Dataset/FaceData/processed/NhuY/received_141613774770208.png 530 467 681 627
+Dataset/FaceData/processed/NhuY/received_171993841663861.png 249 479 439 713
+Dataset/FaceData/processed/NhuY/Screenshot_20210920-163243.png 162 295 1007 1357
+Dataset/FaceData/processed/NhuY/received_155096300060206.png 503 486 654 648
+Dataset/FaceData/processed/NhuY/received_253209496615079.png 115 104 304 357
+Dataset/FaceData/processed/NhuY/received_252034779795311.png 93 128 378 489
+Dataset/FaceData/processed/NhuY/Screenshot_20210919-120052.png 9 337 657 1242
+Dataset/FaceData/processed/NhuY/Screenshot_20210903-120938.png 211 616 830 1408
+Dataset/FaceData/processed/AnhDai/2021-10-08-19-24-17-946.png 202 484 537 912
+Dataset/FaceData/processed/AnhDai/2021-10-21-10-41-11-931.png 101 287 596 960
+Dataset/FaceData/processed/AnhDai/2021-09-18-11-45-59-310.png 210 300 587 807
+Dataset/FaceData/processed/AnhDai/2021-09-27-11-57-15-875.png 201 390 562 866
+Dataset/FaceData/processed/AnhDai/2021-10-03-12-31-42-944.png 184 384 537 858
+Dataset/FaceData/processed/AnhDai/2021-10-08-19-30-35-144.png 394 447 720 869
+Dataset/FaceData/processed/AnhDai/2021-10-03-12-32-16-523.png 197 352 562 834
+Dataset/FaceData/processed/AnhDai/2021-10-10-12-02-14-363.png 171 324 584 894
+Dataset/FaceData/processed/AnhDai/2021-10-08-19-25-39-630.png 178 390 540 868
+Dataset/FaceData/processed/AnhDai/2021-09-18-11-45-28-887.png 201 284 580 802
+Dataset/FaceData/processed/AnhDai/2021-10-03-12-31-13-289.png 175 387 502 810
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_32_Pro.png 554 121 885 527
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_33_Pro.png 541 113 872 524
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_31_Pro.png 545 150 890 606
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_34_Pro.png 547 156 846 543
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_37_Pro.png 537 171 843 562
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_56_Pro.png 665 233 961 620
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_45_Pro.png 571 245 892 641
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_54_Pro.png 659 161 934 550
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_40_Pro.png 643 159 961 594
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_46_Pro.png 577 260 909 665
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_48_Pro.png 570 150 871 530
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_55_Pro.png 635 197 939 619
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_41_Pro.png 687 181 978 587
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_49_Pro.png 539 173 836 564
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_47_Pro.png 571 164 894 583
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_51_Pro.png 496 200 801 576
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_35_Pro.png 494 193 813 585
+Dataset/FaceData/processed/Hao/WIN_20211023_13_59_38_Pro.png 590 175 904 586
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image (9).png 204 150 456 455
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image (2).png 178 113 420 395
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image (1).png 221 145 438 412
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image (6).png 231 157 413 385
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image (3).png 177 169 429 476
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image (7).png 224 146 402 351
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image.png 210 130 466 448
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image (4).png 165 146 406 456
+Dataset/FaceData/processed/Dat/MicrosoftTeams-image (5).png 220 165 404 387

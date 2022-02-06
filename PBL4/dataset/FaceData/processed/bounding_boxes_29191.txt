@@ -1,0 +1,16 @@
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205201.png 568 1062 1670 2602
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205152.png 586 1144 1756 2759
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205207.png 818 1171 1713 2268
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205210.png 871 1251 1896 2636
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205205.png 781 1111 1757 2379
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205158.png 880 1214 1916 2533
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205133.png 870 965 2156 2632
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205157.png 681 1220 1737 2629
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205136.png 414 933 1775 2866
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205139.png 289 1002 1521 2716
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205147.png 835 1152 1709 2119
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205202.png 685 1551 1782 2972
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205143.png 603 1460 1774 2957
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205129.png 540 975 1822 2735
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205150.png 750 1232 1795 2617
+Dataset/FaceData/processed/AnhDai/IMG_20211024_205131.png 690 1002 2032 2677
